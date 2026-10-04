@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AnkerGames - Feed RSS</title>
+  <link rel="alternate" type="application/rss+xml" title="AnkerGames - Feed non ufficiale" href="feed.xml">
+  <style>
+    :root {
+      --bg: #0f172a;
+      --card-bg: #1e293b;
+      --accent: #38bdf8;
+      --text: #f8fafc;
+      --text-muted: #94a3b8;
+      --border: #334155;
+    }
+    * { box-sizing: border-box; }
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      margin: 0;
+      padding: 2rem 1rem;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      min-height: 100vh;
+    }
+    .container {
+      background-color: var(--card-bg);
+      padding: 2rem;
+      border-radius: 1rem;
+      box-shadow: 0 20px 25px -5px rgba(0,0,0,0.5);
+      max-width: 560px;
+      width: 100%;
+      text-align: center;
+    }
+    h1 { margin-top: 0; color: var(--accent); font-size: 1.7rem; }
+    h2 { font-size: 1rem; color: var(--text-muted); text-align: left; margin: 1.8rem 0 0.5rem; }
+    p { color: var(--text-muted); line-height: 1.6; }
+    .feed-url {
+      background-color: var(--bg);
+      padding: 0.75rem;
+      border-radius: 0.5rem;
+      font-family: monospace;
+      word-break: break-all;
+      margin-top: 1rem;
+      border: 1px solid var(--border);
+      color: var(--accent);
+      user-select: all;
+    }
+    .actions { display: flex; flex-wrap: wrap; gap: 0.6rem; justify-content: center; margin-top: 1.2rem; }
+    .btn {
+      padding: 0.7rem 1.1rem;
+      background-color: var(--accent);
+      color: #0f172a;
+      font-weight: bold;
+      font-size: 0.95rem;
+      text-decoration: none;
+      border: 0;
+      border-radius: 0.5rem;
+      cursor: pointer;
+      font-family: inherit;
+    }
+    .btn.secondary { background: transparent; color: var(--accent); border: 1px solid var(--accent); }
+    .btn:active { opacity: 0.8; }
+    ul { list-style: none; padding: 0; margin: 0; text-align: left; }
+    li { padding: 0.55rem 0; border-bottom: 1px solid var(--border); font-size: 0.92rem; }
+    li a { color: var(--text); text-decoration: none; }
+    li small { display: block; color: var(--text-muted); margin-top: 2px; }
+    #status { color: var(--text-muted); font-size: 0.9rem; text-align: left; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>AnkerGames RSS</h1>
+    <p>Feed RSS non ufficiale con gli ultimi giochi di AnkerGames.net, aggiornato automaticamente ogni 6 ore.</p>
+    <p>Copia questo link e incollalo in Feedly:</p>
+    <div class="feed-url" id="feedUrl">...</div>
+
+    <div class="actions">
+      <button class="btn" id="copyBtn" type="button">Copia link</button>
+      <a class="btn secondary" id="feedlyBtn" href="#" target="_blank" rel="noopener">Apri in Feedly</a>
+      <a class="btn secondary" href="feed.xml" target="_blank" rel="noopener">Vedi XML</a>
+    </div>
+
+    <h2>Ultimi giochi nel feed</h2>
+    <div id="status">Caricamento...</div>
+    <ul id="latest"></ul>
+  </div>
+
+  <script>
+    const feedUrl = new URL('feed.xml', window.location.href).href;
+    document.getElementById('feedUrl').textContent = feedUrl;
+    document.getElementById('feedlyBtn').href =
+      'https://feedly.com/i/subscription/feed/' + encodeURIComponent(feedUrl);
+
+    const copyBtn = document.getElementById('copyBtn');
+    copyBtn.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(feedUrl);
+      } catch (e) {
+        const range = document.createRange();
+        range.selectNodeContents(document.getElementById('feedUrl'));
+        const sel = window.getSelection();
+        sel.removeAllRanges();
+        sel.addRange(range);
+        document.execCommand('copy');
+      }
+      copyBtn.textContent = 'Copiato!';
+      setTimeout(() => (copyBtn.textContent = 'Copia link'), 1800);
+    });
+
+    (async () => {
+      const status = document.getElementById('status');
+      const list = document.getElementById('latest');
+      try {
+        const res = await fetch('feed.xml', { cache: 'no-store' });
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        const xml = new DOMParser().parseFromString(await res.text(), 'application/xml');
+        const items = [...xml.querySelectorAll('item')];
+        if (!items.length) throw new Error('feed vuoto');
+        status.textContent = items.length + ' giochi nel feed.';
+        items.slice(0, 8).forEach(item => {
+          const li = document.createElement('li');
+          const a = document.createElement('a');
+          a.href = item.querySelector('link')?.textContent || '#';
+          a.target = '_blank';
+          a.rel = 'noopener';
+          a.textContent = item.querySelector('title')?.textContent || '(senza titolo)';
+          li.appendChild(a);
+          const date = item.querySelector('pubDate')?.textContent;
+          if (date) {
+            const small = document.createElement('small');
+            small.textContent = new Date(date).toLocaleString('it-IT');
+            li.appendChild(small);
+          }
+          list.appendChild(li);
+        });
+      } catch (e) {
+        status.textContent = 'Feed non ancora generato: avvia il workflow da Actions. (' + e.message + ')';
+      }
+    })();
+  </script>
+</body>
+</html>
