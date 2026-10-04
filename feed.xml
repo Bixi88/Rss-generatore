@@ -1,0 +1,714 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>AnkerGames - Feed non ufficiale</title>
+    <link>https://bixi88.github.io/Rss-generatore/feed.xml</link>
+    <description>Ultimi giochi pubblicati su AnkerGames.net (feed non ufficiale)</description>
+    <atom:link href="https://bixi88.github.io/Rss-generatore/feed.xml" rel="self" type="application/rss+xml"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Oct 2026 08:27:10 +0000</lastBuildDate>
+    <ttl>360</ttl>
+    <item>
+      <title>HOT WHEELS Infinite Rush</title>
+      <link>https://ankergames.net/game/hot-wheels-infinite-rush</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/09-2026/hot-wheels-infinite-rush-poster_TDl1AF_1789053662.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;HOT WHEELS Infinite Rush&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/hot-wheels-infinite-rush</guid>
+      <pubDate>Sun, 04 Oct 2026 08:27:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bus Simulator 27</title>
+      <link>https://ankergames.net/game/bus-simulator-27</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/09-2026/bus-simulator-27-poster_wRyz64_1790419461.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Bus Simulator 27&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/bus-simulator-27</guid>
+      <pubDate>Sun, 04 Oct 2026 08:27:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Age of Wonders 4</title>
+      <link>https://ankergames.net/game/age-of-wonders-4</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/08-2025/HJlQ7b11LR.png" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Age of Wonders 4&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/age-of-wonders-4</guid>
+      <pubDate>Sun, 04 Oct 2026 08:27:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Back to the Dawn</title>
+      <link>https://ankergames.net/game/back-to-the-dawn</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/07-2025/9gp0yS2Pfh.png" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Back to the Dawn&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/back-to-the-dawn</guid>
+      <pubDate>Sun, 04 Oct 2026 08:27:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Solarpunk</title>
+      <link>https://ankergames.net/game/solarpunk</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/06-2026/solarpunk-poster_6QpO8l_1780935659.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Solarpunk&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/solarpunk</guid>
+      <pubDate>Sun, 04 Oct 2026 08:27:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crimson Moon</title>
+      <link>https://ankergames.net/game/crimson-moon</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/09-2026/crimson-moon-poster_AsVNhk_1788347205.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Crimson Moon&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/crimson-moon</guid>
+      <pubDate>Sun, 04 Oct 2026 08:27:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>CONTROL Resonant</title>
+      <link>https://ankergames.net/game/control-resonant</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/09-2026/control-resonant-poster_oIbGVE_1790237438.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;CONTROL Resonant&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/control-resonant</guid>
+      <pubDate>Sun, 04 Oct 2026 08:27:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Warlord: Awaji</title>
+      <link>https://ankergames.net/game/warlord-awaji</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/09-2026/warlord-awaji-poster_jDSgeb_1790078397.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Warlord: Awaji&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/warlord-awaji</guid>
+      <pubDate>Sun, 04 Oct 2026 08:27:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>American Truck Simulator</title>
+      <link>https://ankergames.net/game/american-truck-simulator</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/10-2024/1XXYVCWFEc.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;American Truck Simulator&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/american-truck-simulator</guid>
+      <pubDate>Sun, 04 Oct 2026 08:27:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>ALL WILL FALL</title>
+      <link>https://ankergames.net/game/all-will-fall</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/04-2026/all-will-fall-poster_Q2YNsn_1775298892.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;ALL WILL FALL&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/all-will-fall</guid>
+      <pubDate>Sun, 04 Oct 2026 08:27:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Car Dealer Simulator</title>
+      <link>https://ankergames.net/game/car-dealer-simulator</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/05-2025/x9npI8mJzE.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Car Dealer Simulator&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/car-dealer-simulator</guid>
+      <pubDate>Sun, 04 Oct 2026 08:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Last Epoch</title>
+      <link>https://ankergames.net/game/last-epoch</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/10-2024/8J6xirdLri.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Last Epoch&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/last-epoch</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>RuneScape: Dragonwilds</title>
+      <link>https://ankergames.net/game/runescape-dragonwilds</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/04-2025/1hfAh5U3PL.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;RuneScape: Dragonwilds&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/runescape-dragonwilds</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anime Shop Simulator</title>
+      <link>https://ankergames.net/game/anime-shop-simulator</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/09-2026/anime-shop-simulator-poster_k0xXXs_1789736421.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Anime Shop Simulator&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/anime-shop-simulator</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mars First Logistics</title>
+      <link>https://ankergames.net/game/mars-first-logistics</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/10-2025/jC3kXsYWOz.png" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Mars First Logistics&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/mars-first-logistics</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dirty Business</title>
+      <link>https://ankergames.net/game/dirty-business</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/07-2026/dirty-business-poster_Q5KdtV_1784803905.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Dirty Business&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/dirty-business</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xenonauts 2</title>
+      <link>https://ankergames.net/game/xenonauts-2</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/06-2025/vjQ7TKzMaX.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Xenonauts 2&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/xenonauts-2</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Afterlove EP</title>
+      <link>https://ankergames.net/game/afterlove-ep</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/03-2025/PLy7iE8cfE.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Afterlove EP&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/afterlove-ep</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Diplomacy Is Not An Option</title>
+      <link>https://ankergames.net/game/diplomacy-is-not-an-option</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/10-2024/Xxd6oyPYH1.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Diplomacy Is Not An Option&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/diplomacy-is-not-an-option</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>WHAT THE CAR?</title>
+      <link>https://ankergames.net/game/what-the-car</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/10-2024/tbnzmaqMkl.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;WHAT THE CAR?&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/what-the-car</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Escape Simulator 2</title>
+      <link>https://ankergames.net/game/escape-simulator-2</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/10-2025/JpK4Jp8IWB.png" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Escape Simulator 2&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/escape-simulator-2</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lost and Found Co.</title>
+      <link>https://ankergames.net/game/lost-and-found-co</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/07-2026/lost-and-found-co-poster_LsLtNQ_1783927237.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Lost and Found Co.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/lost-and-found-co</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>E-Shop Tycoon</title>
+      <link>https://ankergames.net/game/e-shop-tycoon</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/08-2026/e-shop-tycoon-poster_JUIQH3_1785747352.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;E-Shop Tycoon&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/e-shop-tycoon</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tavern Keeper</title>
+      <link>https://ankergames.net/game/tavern-keeper</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/11-2025/RIDFsZVPzk.png" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Tavern Keeper&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/tavern-keeper</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gamer Stop Simulator</title>
+      <link>https://ankergames.net/game/gamer-stop-simulator</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/01-2026/dZoEu1FFpq.png" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Gamer Stop Simulator&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/gamer-stop-simulator</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>IRON NEST: Heavy Turret Simulator</title>
+      <link>https://ankergames.net/game/iron-nest-heavy-turret-simulator</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/08-2026/iron-nest-heavy-turret-simulator-poster_rGkteJ_1786080706.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;IRON NEST: Heavy Turret Simulator&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/iron-nest-heavy-turret-simulator</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Romestead</title>
+      <link>https://ankergames.net/game/romestead</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/05-2026/romestead-poster_hh8Y44_1779973146.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Romestead&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/romestead</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>FlyKnight</title>
+      <link>https://ankergames.net/game/flyknight</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/02-2025/bVLq6LlwdW.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;FlyKnight&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/flyknight</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Piper of Dawn</title>
+      <link>https://ankergames.net/game/the-piper-of-dawn</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/09-2026/the-piper-of-dawn-poster_DJUaQf_1790231333.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;The Piper of Dawn&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/the-piper-of-dawn</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Scroll of Taiwu : Beyond The Dome</title>
+      <link>https://ankergames.net/game/the-scroll-of-taiwu-beyond-the-dome</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/06-2026/the-scroll-of-taiwu-beyond-the-dome-poster_zlprBA_1782193315.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;The Scroll of Taiwu : Beyond The Dome&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/the-scroll-of-taiwu-beyond-the-dome</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Walking Trade</title>
+      <link>https://ankergames.net/game/the-walking-trade</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/03-2026/SRbcFz0RdD.png" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;The Walking Trade&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/the-walking-trade</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>ANEURISM IV</title>
+      <link>https://ankergames.net/game/aneurism-iv</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/05-2025/VSZj5FHkwN.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;ANEURISM IV&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/aneurism-iv</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kotamon My Sis Found A Super Rare Card In Her Cereal Box So I Became A Garbage Man To Find The Entire Collection And Earn 1000000</title>
+      <link>https://ankergames.net/game/kotamon-my-sis-found-a-super-rare-card-in-her-cereal-box-so-i-became-a-garbage-man-to-find-the-entire-collection-and-earn-1000000</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/08-2026/kotamon-my-sis-found-a-super-rare-card-in-her-cere-poster_YoMaIU_1787823949.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Kotamon My Sis Found A Super Rare Card In Her Cereal Box So I Became A Garbage Man To Find The Entire Collection And Earn 1000000&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/kotamon-my-sis-found-a-super-rare-card-in-her-cereal-box-so-i-became-a-garbage-man-to-find-the-entire-collection-and-earn-1000000</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shadow Dungeon</title>
+      <link>https://ankergames.net/game/shadow-dungeon</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/08-2026/shadow-dungeon-poster_DumNQ4_1787821024.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Shadow Dungeon&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/shadow-dungeon</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ruins of Dawn</title>
+      <link>https://ankergames.net/game/ruins-of-dawn</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/08-2026/ruins-of-dawn-poster_OnfOM0_1786969444.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Ruins of Dawn&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/ruins-of-dawn</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>CarX Drift Racing Online 2</title>
+      <link>https://ankergames.net/game/carx-drift-racing-online-2</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/05-2026/carx-drift-racing-online-2-poster_RfMAyn_1778323471.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;CarX Drift Racing Online 2&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/carx-drift-racing-online-2</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cellar Keeper</title>
+      <link>https://ankergames.net/game/cellar-keeper</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/08-2026/cellar-keeper-poster_gk8vX5_1787136157.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Cellar Keeper&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/cellar-keeper</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>1666: Amsterdam</title>
+      <link>https://ankergames.net/game/1666-amsterdam</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/08-2026/1666-amsterdam-poster_qASkf8_1787827969.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;1666: Amsterdam&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/1666-amsterdam</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Police Chief Simulator</title>
+      <link>https://ankergames.net/game/police-chief-simulator</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/09-2026/police-chief-simulator-poster_R7DS8Z_1789795856.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Police Chief Simulator&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/police-chief-simulator</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>BLACKWOOD</title>
+      <link>https://ankergames.net/game/blackwood</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/09-2026/blackwood-poster_vTftoX_1789639790.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;BLACKWOOD&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/blackwood</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Whiskerwood</title>
+      <link>https://ankergames.net/game/whiskerwood</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/09-2026/whiskerwood-poster_tQA1Vy_1788779788.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Whiskerwood&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/whiskerwood</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schedule I</title>
+      <link>https://ankergames.net/game/schedule-i</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/03-2025/QYl37hCfJS.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Schedule I&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/schedule-i</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Songs of Glimmerwick</title>
+      <link>https://ankergames.net/game/songs-of-glimmerwick</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/10-2026/songs-of-glimmerwick-poster_jNDZ2n_1790859587.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Songs of Glimmerwick&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/songs-of-glimmerwick</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nivalis Nights</title>
+      <link>https://ankergames.net/game/nivalis-nights</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/09-2026/nivalis-nights-poster_74lpKQ_1790661731.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Nivalis Nights&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/nivalis-nights</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Well Dweller</title>
+      <link>https://ankergames.net/game/well-dweller</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/10-2026/well-dweller-poster_sB5A72_1790853922.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Well Dweller&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/well-dweller</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sea Power : Naval Combat in the Missile Age</title>
+      <link>https://ankergames.net/game/sea-power-naval-combat-in-the-missile-age</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/07-2026/sea-power-naval-combat-in-the-missile-age-poster_HqB9L3_1783158384.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Sea Power : Naval Combat in the Missile Age&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/sea-power-naval-combat-in-the-missile-age</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Survival Log</title>
+      <link>https://ankergames.net/game/survival-log</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/08-2026/survival-log-poster_GhZWqj_1786785010.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Survival Log&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/survival-log</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>PEAK</title>
+      <link>https://ankergames.net/game/peak</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/06-2025/IjkcUYYrie.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;PEAK&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/peak</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>9 Days</title>
+      <link>https://ankergames.net/game/9-days</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/06-2026/9-days-poster_IFjC9O_1781947928.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;9 Days&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/9-days</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vertigo 2</title>
+      <link>https://ankergames.net/game/vertigo-2</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/06-2025/0XuixvMyh4.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Vertigo 2&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/vertigo-2</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Graveyard Keeper 2</title>
+      <link>https://ankergames.net/game/graveyard-keeper-2</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/09-2026/graveyard-keeper-2-poster_2YVD5k_1790054986.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Graveyard Keeper 2&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/graveyard-keeper-2</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Heroes of Might and Magic: Olden Era</title>
+      <link>https://ankergames.net/game/heroes-of-might-and-magic-olden-era</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/04-2026/heroes-of-might-and-magic-olden-era-poster_t44NF9_1777568232.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Heroes of Might and Magic: Olden Era&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/heroes-of-might-and-magic-olden-era</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deskrawl: Idle ARPG</title>
+      <link>https://ankergames.net/game/deskrawl-idle-arpg</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/09-2026/deskrawl-idle-arpg-poster_mqIkgk_1790659666.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Deskrawl: Idle ARPG&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/deskrawl-idle-arpg</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hozy</title>
+      <link>https://ankergames.net/game/hozy</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/04-2026/hozy-poster_CFVTJE_1775042252.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Hozy&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/hozy</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Funnel Runners</title>
+      <link>https://ankergames.net/game/funnel-runners</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/07-2026/funnel-runners-poster_8FY4cF_1784544831.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Funnel Runners&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/funnel-runners</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Backyard Baseball</title>
+      <link>https://ankergames.net/game/backyard-baseball</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/07-2026/backyard-baseball-poster_Wc0ITh_1783935135.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Backyard Baseball&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/backyard-baseball</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tiny Aquarium: Social Fishkeeping</title>
+      <link>https://ankergames.net/game/tiny-aquarium-social-fishkeeping</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/07-2025/Mx1EFbV0Rs.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Tiny Aquarium: Social Fishkeeping&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/tiny-aquarium-social-fishkeeping</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Game About Chopping Trees</title>
+      <link>https://ankergames.net/game/a-game-about-chopping-trees</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/07-2026/a-game-about-chopping-trees-poster_JS0ttc_1784804352.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;A Game About Chopping Trees&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/a-game-about-chopping-trees</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alabaster Dawn</title>
+      <link>https://ankergames.net/game/alabaster-dawn</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/05-2026/alabaster-dawn-poster_OF8Blc_1778149044.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Alabaster Dawn&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/alabaster-dawn</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Drone Sector</title>
+      <link>https://ankergames.net/game/drone-sector</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/07-2026/drone-sector-poster_O0w31L_1785237691.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Drone Sector&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/drone-sector</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Database Detective: Minor Crimes Division</title>
+      <link>https://ankergames.net/game/database-detective-minor-crimes-division</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/08-2026/database-detective-minor-crimes-division-poster_rBkorl_1787648661.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Database Detective: Minor Crimes Division&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/database-detective-minor-crimes-division</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cleaning Up The Puzzle Gallery</title>
+      <link>https://ankergames.net/game/cleaning-up-the-puzzle-gallery</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/08-2026/cleaning-up-the-puzzle-gallery-poster_Bfn00A_1786529593.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Cleaning Up The Puzzle Gallery&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/cleaning-up-the-puzzle-gallery</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Warhammer 40,000: Space Marine 2</title>
+      <link>https://ankergames.net/game/warhammer-40-000-space-marine-2</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/10-2024/nKN9czPBUd.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Warhammer 40,000: Space Marine 2&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/warhammer-40-000-space-marine-2</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Five Hearts Under One Roof season2</title>
+      <link>https://ankergames.net/game/five-hearts-under-one-roof-season2</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/11-2025/cFPKaBP4X0.png" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Five Hearts Under One Roof season2&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/five-hearts-under-one-roof-season2</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Conan Exiles Enhanced</title>
+      <link>https://ankergames.net/game/conan-exiles</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/10-2025/E2ulbf3tSq.png" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Conan Exiles Enhanced&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/conan-exiles</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Another Eden Begins</title>
+      <link>https://ankergames.net/game/another-eden-begins</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/09-2026/another-eden-begins-poster_yoI43y_1790336112.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Another Eden Begins&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/another-eden-begins</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tainted Grail: The Fall of Avalon</title>
+      <link>https://ankergames.net/game/tainted-grail-the-fall-of-avalon</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/05-2025/jXIk4h45DN.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Tainted Grail: The Fall of Avalon&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/tainted-grail-the-fall-of-avalon</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>HARD BULLET</title>
+      <link>https://ankergames.net/game/hard-bullet</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/02-2025/eQMnJ58FCc.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;HARD BULLET&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/hard-bullet</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>GONE Fishing</title>
+      <link>https://ankergames.net/game/gone-fishing</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/09-2026/gone-fishing-poster_X0a75k_1789038861.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;GONE Fishing&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/gone-fishing</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>MISERY</title>
+      <link>https://ankergames.net/game/misery</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/10-2025/QlaCgAne6G.png" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;MISERY&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/misery</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Solasta II</title>
+      <link>https://ankergames.net/game/solasta-ii</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/03-2026/solasta-ii-poster_J4df3W_1773345242.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Solasta II&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/solasta-ii</guid>
+      <pubDate>Sun, 04 Oct 2026 08:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lies of P</title>
+      <link>https://ankergames.net/game/lies-of-p</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/10-2024/ukkxnSGLJi.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Lies of P&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/lies-of-p</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>RUNNING TRAIN | 走ル列車！</title>
+      <link>https://ankergames.net/game/running-train</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/06-2026/running-train-poster_9J33OD_1782121982.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;RUNNING TRAIN | 走ル列車！&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/running-train</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Witcher 3 Wild Hunt</title>
+      <link>https://ankergames.net/game/the-witcher-3-wild-hunt</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/10-2024/o9IY1dtq2Q.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;The Witcher 3 Wild Hunt&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/the-witcher-3-wild-hunt</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>HackHub - Ultimate Hacker Simulator</title>
+      <link>https://ankergames.net/game/hackhub-ultimate-hacker-simulator</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/08-2026/hackhub-ultimate-hacker-simulator-poster_n4esTm_1787574156.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;HackHub - Ultimate Hacker Simulator&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/hackhub-ultimate-hacker-simulator</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scritchy Scratchy</title>
+      <link>https://ankergames.net/game/scritchy-scratchy</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/03-2026/scritchy-scratchy-poster_xZpXS9_1774351127.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Scritchy Scratchy&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/scritchy-scratchy</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>IGTAP: an Incremental Game That's Also a Platformer</title>
+      <link>https://ankergames.net/game/igtap-an-incremental-game-thats-also-a-platformer</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/09-2026/igtap-an-incremental-game-thats-also-a-platformer-poster_E17pXr_1790075185.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;IGTAP: an Incremental Game That&amp;#x27;s Also a Platformer&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/igtap-an-incremental-game-thats-also-a-platformer</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>EA SPORTS College Football 27</title>
+      <link>https://ankergames.net/game/ea-sports-college-football-27</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/07-2026/ea-sports-college-football-27-poster_vVpd3H_1784142489.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;EA SPORTS College Football 27&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/ea-sports-college-football-27</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stonemachia</title>
+      <link>https://ankergames.net/game/stonemachia</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/08-2026/stonemachia-poster_RwdwLp_1786957457.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Stonemachia&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/stonemachia</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>ICARUS</title>
+      <link>https://ankergames.net/game/icarus</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/12-2025/LuDEqioTM8.png" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;ICARUS&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/icarus</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rust</title>
+      <link>https://ankergames.net/game/rust</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/10-2024/VohqaGKkkz.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Rust&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/rust</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>ASKA</title>
+      <link>https://ankergames.net/game/aska</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/10-2024/oVzS11xTVb.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;ASKA&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/aska</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Star Trek: Voyager - Across the Unknown</title>
+      <link>https://ankergames.net/game/star-trek-voyager-across-the-unknown</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/02-2026/star-trek-voyager-across-the-unknown-poster_apRvDQ_1771478097.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Star Trek: Voyager - Across the Unknown&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/star-trek-voyager-across-the-unknown</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ore Factory Squad</title>
+      <link>https://ankergames.net/game/ore-factory-squad</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/07-2026/ore-factory-squad-poster_x21W7f_1784365761.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Ore Factory Squad&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/ore-factory-squad</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rebellion GODSOUL: Awakening</title>
+      <link>https://ankergames.net/game/rebellion-godsoul-awakening</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/05-2025/aSqhHscOWt.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Rebellion GODSOUL: Awakening&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/rebellion-godsoul-awakening</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lucky Tower Ultimate</title>
+      <link>https://ankergames.net/game/lucky-tower-ultimate</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/04-2026/lucky-tower-ultimate-poster_52jiB0_1776509451.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Lucky Tower Ultimate&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/lucky-tower-ultimate</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dread Delusion</title>
+      <link>https://ankergames.net/game/dread-delusion</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/11-2025/DJgplFQNjB.png" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Dread Delusion&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/dread-delusion</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Into the Dead Our Darkest Days</title>
+      <link>https://ankergames.net/game/into-the-dead-our-darkest-days</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/04-2025/ssRlYSGF3y.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Into the Dead Our Darkest Days&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/into-the-dead-our-darkest-days</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kingdom Two Crowns</title>
+      <link>https://ankergames.net/game/kingdom-two-crowns</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/09-2026/kingdom-two-crowns-poster_8D1b20_1789563315.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Kingdom Two Crowns&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/kingdom-two-crowns</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Beast of Reincarnation</title>
+      <link>https://ankergames.net/game/beast-of-reincarnation</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/08-2026/beast-of-reincarnation-poster_cE2nyY_1785652059.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Beast of Reincarnation&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/beast-of-reincarnation</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ghost Janitors</title>
+      <link>https://ankergames.net/game/ghost-janitors</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/08-2026/ghost-janitors-poster_5XA9SL_1788169760.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Ghost Janitors&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/ghost-janitors</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fishing Inc</title>
+      <link>https://ankergames.net/game/fishing-inc</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/04-2026/fishing-inc-poster_7SMf2v_1776432920.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Fishing Inc&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/fishing-inc</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clone Drone in the Danger Zone</title>
+      <link>https://ankergames.net/game/clone-drone-in-the-danger-zone</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/10-2024/ZgH6B7d8y9.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Clone Drone in the Danger Zone&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/clone-drone-in-the-danger-zone</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>To Pixelia</title>
+      <link>https://ankergames.net/game/to-pixelia</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/05-2025/uX86Hg9Xww.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;To Pixelia&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/to-pixelia</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crusader Kings III</title>
+      <link>https://ankergames.net/game/crusader-kings-iii</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/10-2024/iqOGB6BcOI.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Crusader Kings III&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/crusader-kings-iii</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>PAYDAY 3</title>
+      <link>https://ankergames.net/game/payday-3</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/10-2024/zWA1nN6G0I.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;PAYDAY 3&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/payday-3</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Legend of Khiimori</title>
+      <link>https://ankergames.net/game/the-legend-of-khiimori</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/03-2026/the-legend-of-khiimori-poster_wO8q5A_1773305348.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;The Legend of Khiimori&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/the-legend-of-khiimori</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>ENDLESS Legend 2</title>
+      <link>https://ankergames.net/game/endless-legend-2</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/09-2025/hnDeU9bJ3H.png" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;ENDLESS Legend 2&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/endless-legend-2</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Star Birds</title>
+      <link>https://ankergames.net/game/star-birds</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/09-2025/eqlUpPE9FM.png" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Star Birds&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/star-birds</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gladio Mori</title>
+      <link>https://ankergames.net/game/gladio-mori</link>
+      <description>&lt;img src="https://ankergames.net/uploads/poster/09-2026/gladio-mori-poster_2mIpcF_1790764738.jpg" style="max-width:100%;"&gt;&lt;br/&gt;&lt;p&gt;Gladio Mori&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://ankergames.net/game/gladio-mori</guid>
+      <pubDate>Sun, 04 Oct 2026 08:25:31 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
