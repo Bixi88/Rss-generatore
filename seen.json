@@ -1,502 +1,502 @@
 {
- "https://ankergames.net/game/rust": {
-  "title": "Rust",
-  "image": "https://ankergames.net/uploads/poster/10-2024/VohqaGKkkz.jpg",
-  "first_seen": "2026-10-29T22:48:42+00:00"
- },
- "https://ankergames.net/game/the-house-always-wins": {
-  "title": "The House Always Wins",
-  "image": "https://ankergames.net/uploads/poster/07-2026/the-house-always-wins-poster_t1aWzo_1784705711.jpg",
-  "first_seen": "2026-10-29T22:48:33+00:00"
- },
- "https://ankergames.net/game/backyard-baseball": {
-  "title": "Backyard Baseball",
-  "image": "https://ankergames.net/uploads/poster/07-2026/backyard-baseball-poster_Wc0ITh_1783935135.jpg",
-  "first_seen": "2026-10-29T22:48:22+00:00"
- },
- "https://ankergames.net/game/i-am-your-beast": {
-  "title": "I Am Your Beast",
-  "image": "https://ankergames.net/uploads/poster/10-2024/fam5V6zQSW.jpg",
-  "first_seen": "2026-10-29T22:48:20+00:00"
- },
- "https://ankergames.net/game/master-of-command": {
-  "title": "Master of Command",
-  "image": "https://ankergames.net/uploads/poster/10-2025/tGyqdv4J5y.png",
-  "first_seen": "2026-10-29T22:48:18+00:00"
- },
- "https://ankergames.net/game/gone-fishing": {
-  "title": "GONE Fishing",
-  "image": "https://ankergames.net/uploads/poster/09-2026/gone-fishing-poster_X0a75k_1789038861.jpg",
-  "first_seen": "2026-10-29T22:48:14+00:00"
- },
- "https://ankergames.net/game/tcg-card-shop-simulator": {
-  "title": "TCG Card Shop Simulator",
-  "image": "https://ankergames.net/uploads/poster/10-2024/iI1g0PUdZA.jpg",
-  "first_seen": "2026-10-29T22:48:10+00:00"
- },
- "https://ankergames.net/game/crack": {
-  "title": "CRACK",
-  "image": "https://ankergames.net/uploads/poster/10-2026/crack-poster_rGISqa_1793094118.jpg",
-  "first_seen": "2026-10-29T22:48:02+00:00"
- },
- "https://ankergames.net/game/hoop-land": {
-  "title": "Hoop Land",
-  "image": "https://ankergames.net/uploads/poster/12-2025/h6tLHIJKDa.png",
-  "first_seen": "2026-10-29T22:48:01+00:00"
- },
- "https://ankergames.net/game/7-days-to-die": {
-  "title": "7 Days To Die",
-  "image": "https://ankergames.net/uploads/poster/09-2024/nmecGwW1no.jpg",
-  "first_seen": "2026-10-29T22:47:54+00:00"
- },
- "https://ankergames.net/game/rift-of-the-necrodancer": {
-  "title": "Rift of the NecroDancer",
-  "image": "https://ankergames.net/uploads/poster/08-2026/rift-of-the-necrodancer-poster_qpYZnZ_1786357835.jpg",
-  "first_seen": "2026-10-29T22:47:52+00:00"
- },
- "https://ankergames.net/game/people-playground": {
-  "title": "People Playground",
-  "image": "https://ankergames.net/uploads/poster/10-2024/pXxx2eUB8Z.jpg",
-  "first_seen": "2026-10-29T22:47:47+00:00"
- },
- "https://ankergames.net/game/corsair-cove": {
-  "title": "Corsair Cove",
-  "image": "https://ankergames.net/uploads/poster/08-2026/corsair-cove-poster_ubDv0u_1785654183.jpg",
-  "first_seen": "2026-10-29T22:47:45+00:00"
- },
- "https://ankergames.net/game/town-to-city": {
-  "title": "Town to City",
-  "image": "https://ankergames.net/uploads/poster/09-2025/mIvoDMo0w8.png",
-  "first_seen": "2026-10-29T22:47:44+00:00"
- },
- "https://ankergames.net/game/the-sinking-city-2": {
-  "title": "The Sinking City 2",
-  "image": "https://ankergames.net/uploads/poster/08-2026/the-sinking-city-2-poster_YEMKjJ_1787135448.jpg",
-  "first_seen": "2026-10-29T22:47:43+00:00"
- },
- "https://ankergames.net/game/cinderia": {
-  "title": "Cinderia",
-  "image": "https://ankergames.net/uploads/poster/04-2026/cinderia-poster_EpotZ3.jpg",
-  "first_seen": "2026-10-29T22:47:42+00:00"
- },
- "https://ankergames.net/game/my-card-is-better-than-your-card": {
-  "title": "My Card Is Better Than Your Card!",
-  "image": "https://ankergames.net/uploads/poster/08-2026/my-card-is-better-than-your-card-poster_nBrzYE_1785749568.jpg",
-  "first_seen": "2026-10-29T22:47:41+00:00"
- },
- "https://ankergames.net/game/monster-prom-4-monster-con": {
-  "title": "Monster Prom 4: Monster Con",
-  "image": "https://ankergames.net/uploads/poster/04-2025/oDPjsYe6zu.jpg",
-  "first_seen": "2026-10-29T22:47:40+00:00"
- },
- "https://ankergames.net/game/the-last-starship": {
-  "title": "The Last Starship",
-  "image": "https://ankergames.net/uploads/poster/02-2026/the-last-starship-poster_bzqFih_1770380268.jpg",
-  "first_seen": "2026-10-29T22:47:39+00:00"
- },
- "https://ankergames.net/game/bus-bound": {
-  "title": "Bus Bound",
-  "image": "https://ankergames.net/uploads/poster/08-2026/bus-bound-poster_edbiY8_1787649462.jpg",
-  "first_seen": "2026-10-29T22:47:38+00:00"
- },
- "https://ankergames.net/game/demonologist": {
-  "title": "Demonologist",
-  "image": "https://ankergames.net/uploads/poster/11-2024/QSL8tpykHM.jpg",
-  "first_seen": "2026-10-29T22:47:37+00:00"
- },
- "https://ankergames.net/game/endless-legend-2": {
-  "title": "ENDLESS Legend 2",
-  "image": "https://ankergames.net/uploads/poster/09-2025/hnDeU9bJ3H.png",
-  "first_seen": "2026-10-29T22:47:36+00:00"
- },
- "https://ankergames.net/game/lort": {
-  "title": "LORT",
-  "image": "https://ankergames.net/uploads/poster/01-2026/q8YCR8ooww.png",
-  "first_seen": "2026-10-29T22:47:35+00:00"
- },
- "https://ankergames.net/game/songs-of-glimmerwick": {
-  "title": "Songs of Glimmerwick",
-  "image": "https://ankergames.net/uploads/poster/10-2026/songs-of-glimmerwick-poster_jNDZ2n_1790859587.jpg",
-  "first_seen": "2026-10-29T22:47:32+00:00"
- },
- "https://ankergames.net/game/drainsim": {
-  "title": "DrainSim",
-  "image": "https://ankergames.net/uploads/poster/03-2026/drainsim-poster_unJfFh_1774957308.jpg",
-  "first_seen": "2026-10-29T22:47:30+00:00"
- },
- "https://ankergames.net/game/the-long-dark": {
-  "title": "The Long Dark",
-  "image": "https://ankergames.net/uploads/poster/04-2025/CU9Mrs13eS.jpg",
-  "first_seen": "2026-10-29T22:47:27+00:00"
- },
- "https://ankergames.net/game/valor-mortis": {
-  "title": "Valor Mortis",
-  "image": "https://ankergames.net/uploads/poster/10-2026/valor-mortis-poster_Kwk5om_1791965742.jpg",
-  "first_seen": "2026-10-29T22:47:26+00:00"
- },
- "https://ankergames.net/game/speedrunners-2-king-of-speed": {
-  "title": "SpeedRunners 2: King of Speed",
-  "image": "https://ankergames.net/uploads/poster/09-2026/speedrunners-2-king-of-speed-poster_t34EaW_1788512235.jpg",
-  "first_seen": "2026-10-29T22:47:25+00:00"
- },
- "https://ankergames.net/game/nuclear-option": {
-  "title": "Nuclear Option",
-  "image": "https://ankergames.net/uploads/poster/12-2024/opIJaub2u5.png",
-  "first_seen": "2026-10-29T22:47:24+00:00"
- },
- "https://ankergames.net/game/restory-chill-electronics-repairs": {
-  "title": "ReStory: Chill Electronics Repairs",
-  "image": "https://ankergames.net/uploads/poster/08-2026/restory-chill-electronics-repairs-poster_imNm0V_1786080765.jpg",
-  "first_seen": "2026-10-29T22:47:23+00:00"
- },
- "https://ankergames.net/game/halls-of-torment": {
-  "title": "Halls of Torment",
-  "image": "https://ankergames.net/uploads/poster/10-2024/kfMAOh65jS.jpg",
-  "first_seen": "2026-10-29T22:47:22+00:00"
- },
- "https://ankergames.net/game/cleared-hot": {
-  "title": "Cleared Hot",
-  "image": "https://ankergames.net/uploads/poster/11-2025/fjtZAjKgVV.png",
-  "first_seen": "2026-10-29T22:47:20+00:00"
- },
- "https://ankergames.net/game/abiotic-factor": {
-  "title": "Abiotic Factor",
-  "image": "https://ankergames.net/uploads/poster/10-2024/H0KPEEU2hi.jpg",
-  "first_seen": "2026-10-29T22:47:19+00:00"
- },
- "https://ankergames.net/game/moon-sweepers": {
-  "title": "Moon Sweepers",
-  "image": "https://ankergames.net/uploads/poster/10-2026/moon-sweepers-poster_8YLq9T_1792819685.jpg",
-  "first_seen": "2026-10-29T22:47:18+00:00"
- },
- "https://ankergames.net/game/the-precinct": {
-  "title": "The Precinct",
-  "image": "https://ankergames.net/uploads/poster/05-2025/LUcMwsAtqX.jpg",
-  "first_seen": "2026-10-29T22:47:17+00:00"
- },
- "https://ankergames.net/game/zero-sievert": {
-  "title": "ZERO Sievert",
-  "image": "https://ankergames.net/uploads/poster/06-2026/zero-sievert-poster_txN6q3_1781168018.jpg",
-  "first_seen": "2026-10-29T22:47:16+00:00"
- },
- "https://ankergames.net/game/hearts-of-iron-iv": {
-  "title": "Hearts of Iron IV",
-  "image": "https://ankergames.net/uploads/poster/11-2024/JGgJ2oT5T9.jpg",
-  "first_seen": "2026-10-29T22:47:15+00:00"
- },
- "https://ankergames.net/game/barotrauma": {
-  "title": "Barotrauma",
-  "image": "https://ankergames.net/uploads/poster/01-2025/Ub74GgAsBA.jpg",
-  "first_seen": "2026-10-29T22:47:14+00:00"
- },
- "https://ankergames.net/game/legends-of-dragaea-idle-dungeons": {
-  "title": "Legends of Dragaea: Idle Dungeons",
-  "image": "https://ankergames.net/uploads/poster/11-2025/TaYmxV5lbd.png",
-  "first_seen": "2026-10-29T22:47:13+00:00"
- },
- "https://ankergames.net/game/one-piece-grand-gourmet": {
-  "title": "ONE PIECE: Grand Gourmet",
-  "image": "https://ankergames.net/uploads/poster/10-2026/one-piece-grand-gourmet-poster_oZSOzb_1792757078.jpg",
-  "first_seen": "2026-10-29T22:47:12+00:00"
- },
- "https://ankergames.net/game/conquest-dark": {
-  "title": "Conquest Dark",
-  "image": "https://ankergames.net/uploads/poster/05-2025/DArJJAYIVI.jpg",
-  "first_seen": "2026-10-29T22:47:11+00:00"
- },
- "https://ankergames.net/game/gears-of-war-e-day": {
-  "title": "Gears of War: E-Day",
-  "image": "https://ankergames.net/uploads/poster/10-2026/gears-of-war-e-day-poster_5TjTC4_1791307078.jpg",
-  "first_seen": "2026-10-29T22:47:10+00:00"
- },
- "https://ankergames.net/game/rimworld": {
-  "title": "RimWorld",
-  "image": "https://ankergames.net/uploads/poster/10-2024/hhxdlK7zaF.jpg",
-  "first_seen": "2026-10-29T22:47:09+00:00"
- },
- "https://ankergames.net/game/cosmoteer-starship-architect-commander": {
-  "title": "Cosmoteer Starship Architect & Commander",
-  "image": "https://ankergames.net/uploads/poster/02-2025/pdorv9mLQP.jpg",
-  "first_seen": "2026-10-29T22:46:56+00:00"
- },
- "https://ankergames.net/game/boba-cafe-simulator": {
-  "title": "Boba Cafe Simulator",
-  "image": "https://ankergames.net/uploads/poster/07-2026/boba-cafe-simulator-poster_hgF1zr_1784968781.jpg",
-  "first_seen": "2026-10-29T22:46:49+00:00"
- },
- "https://ankergames.net/game/that-s-not-my-neighbor": {
-  "title": "That's not my Neighbor",
-  "image": "https://ankergames.net/uploads/poster/03-2025/gYvoR52XEC.jpg",
-  "first_seen": "2026-10-29T22:46:47+00:00"
- },
- "https://ankergames.net/game/in-falsus": {
-  "title": "In Falsus",
-  "image": "https://ankergames.net/uploads/poster/09-2026/in-falsus-poster_TVxNh7_1789211179.jpg",
-  "first_seen": "2026-10-29T22:46:45+00:00"
- },
- "https://ankergames.net/game/don-t-starve-together": {
-  "title": "Don't Starve Together",
-  "image": "https://ankergames.net/uploads/poster/10-2024/w8Ts1kBt0A.jpg",
-  "first_seen": "2026-10-29T22:46:41+00:00"
- },
- "https://ankergames.net/game/deep-rock-galactic": {
-  "title": "Deep Rock Galactic",
-  "image": "https://ankergames.net/uploads/poster/10-2024/djnERlnlab.jpg",
-  "first_seen": "2026-10-29T22:46:35+00:00"
- },
- "https://ankergames.net/game/bombanana": {
-  "title": "BOMBANANA!",
-  "image": "https://ankergames.net/uploads/poster/09-2026/bombanana-poster_omFUyD_1788432442.jpg",
-  "first_seen": "2026-10-29T22:46:34+00:00"
- },
- "https://ankergames.net/game/mimesis": {
-  "title": "MIMESIS",
-  "image": "https://ankergames.net/uploads/poster/10-2025/zQuZknuQao.png",
-  "first_seen": "2026-10-29T22:46:32+00:00"
- },
- "https://ankergames.net/game/beast-of-reincarnation": {
-  "title": "Beast of Reincarnation",
-  "image": "https://ankergames.net/uploads/poster/08-2026/beast-of-reincarnation-poster_cE2nyY_1785652059.jpg",
-  "first_seen": "2026-10-29T22:46:31+00:00"
- },
- "https://ankergames.net/game/uncrashed-fpv-drone-simulator": {
-  "title": "Uncrashed : FPV Drone Simulator",
-  "image": "https://ankergames.net/uploads/poster/06-2026/uncrashed-fpv-drone-simulator-poster_VUxhpF_1780652211.jpg",
-  "first_seen": "2026-10-29T22:46:30+00:00"
- },
- "https://ankergames.net/game/forts": {
-  "title": "Forts",
-  "image": "https://ankergames.net/uploads/poster/05-2026/forts-poster_qz92h6_1778502289.jpg",
-  "first_seen": "2026-10-29T22:46:29+00:00"
- },
- "https://ankergames.net/game/dice-a-million": {
-  "title": "Dice A Million",
-  "image": "https://ankergames.net/uploads/poster/10-2026/dice-a-million-poster_ZFlYhM_1792065703.jpg",
-  "first_seen": "2026-10-29T22:46:28+00:00"
- },
- "https://ankergames.net/game/car-dealership-simulator-2": {
-  "title": "Car Dealership Simulator 2",
-  "image": "https://ankergames.net/uploads/poster/01-2026/N43R9LnvPn.png",
-  "first_seen": "2026-10-29T22:46:27+00:00"
- },
- "https://ankergames.net/game/lucid-blocks": {
-  "title": "Lucid Blocks",
-  "image": "https://ankergames.net/uploads/poster/03-2026/lucid-blocks-poster_TKSAeF_1773830634.jpg",
-  "first_seen": "2026-10-29T22:46:26+00:00"
- },
- "https://ankergames.net/game/cellar-keeper": {
-  "title": "Cellar Keeper",
-  "image": "https://ankergames.net/uploads/poster/08-2026/cellar-keeper-poster_gk8vX5_1787136157.jpg",
-  "first_seen": "2026-10-29T22:46:24+00:00"
- },
- "https://ankergames.net/game/scam-with-your-friends": {
-  "title": "Scam With Your Friends",
-  "image": "https://ankergames.net/uploads/poster/10-2026/scam-with-your-friends-poster_o4Cb10_1792091465.jpg",
-  "first_seen": "2026-10-29T22:46:08+00:00"
- },
- "https://ankergames.net/game/xenonauts-2": {
-  "title": "Xenonauts 2",
-  "image": "https://ankergames.net/uploads/poster/06-2025/vjQ7TKzMaX.jpg",
-  "first_seen": "2026-10-29T22:46:07+00:00"
- },
- "https://ankergames.net/game/grind-survivors": {
-  "title": "Grind Survivors",
-  "image": "https://ankergames.net/uploads/poster/03-2026/grind-survivors-poster_5HAusc_1773727328.jpg",
-  "first_seen": "2026-10-29T22:46:06+00:00"
- },
- "https://ankergames.net/game/mafia-iii": {
-  "title": "Mafia III",
-  "image": "https://ankergames.net/uploads/poster/11-2024/srdMA6zPMM.jpg",
-  "first_seen": "2026-10-29T22:46:05+00:00"
- },
- "https://ankergames.net/game/hackhub-ultimate-hacker-simulator": {
-  "title": "HackHub - Ultimate Hacker Simulator",
-  "image": "https://ankergames.net/uploads/poster/08-2026/hackhub-ultimate-hacker-simulator-poster_n4esTm_1787574156.jpg",
-  "first_seen": "2026-10-29T22:46:04+00:00"
- },
- "https://ankergames.net/game/fishing-inc": {
-  "title": "Fishing Inc",
-  "image": "https://ankergames.net/uploads/poster/04-2026/fishing-inc-poster_7SMf2v_1776432920.jpg",
-  "first_seen": "2026-10-29T22:46:03+00:00"
- },
- "https://ankergames.net/game/super-battle-golf": {
-  "title": "Super Battle Golf",
-  "image": "https://ankergames.net/uploads/poster/02-2026/super-battle-golf-poster_FgKoHJ_1771571697.jpg",
-  "first_seen": "2026-10-29T22:46:02+00:00"
- },
- "https://ankergames.net/game/jump-space": {
-  "title": "Jump Space",
-  "image": "https://ankergames.net/uploads/poster/09-2025/gI5aEpt7MX.png",
-  "first_seen": "2026-10-29T22:46:00+00:00"
- },
- "https://ankergames.net/game/good-pizza-great-pizza": {
-  "title": "Good Pizza Great Pizza",
-  "image": "https://ankergames.net/uploads/poster/01-2025/QyXkuyAUOW.jpg",
-  "first_seen": "2026-10-29T22:45:58+00:00"
- },
- "https://ankergames.net/game/the-walking-trade": {
-  "title": "The Walking Trade",
-  "image": "https://ankergames.net/uploads/poster/03-2026/SRbcFz0RdD.png",
-  "first_seen": "2026-10-29T22:45:57+00:00"
- },
- "https://ankergames.net/game/foundation": {
-  "title": "Foundation",
-  "image": "https://ankergames.net/uploads/poster/02-2026/foundation-poster_Fq9ucg_1771846462.jpg",
-  "first_seen": "2026-10-29T22:45:55+00:00"
- },
- "https://ankergames.net/game/dispatch": {
-  "title": "Dispatch",
-  "image": "https://ankergames.net/uploads/poster/10-2025/kQ9w8eNxG0.png",
-  "first_seen": "2026-10-29T22:45:53+00:00"
- },
- "https://ankergames.net/game/europa-universalis-v": {
-  "title": "Europa Universalis V",
-  "image": "https://ankergames.net/uploads/poster/11-2025/54FePn1Eym.jpg",
-  "first_seen": "2026-10-29T22:45:52+00:00"
- },
- "https://ankergames.net/game/tiny-eden": {
-  "title": "Tiny Eden",
-  "image": "https://ankergames.net/uploads/poster/09-2026/tiny-eden-poster_JjbQjv_1789038874.jpg",
-  "first_seen": "2026-10-29T22:45:51+00:00"
- },
- "https://ankergames.net/game/wanderburg": {
-  "title": "Wanderburg",
-  "image": "https://ankergames.net/uploads/poster/09-2026/wanderburg-poster_17x1m0_1788931573.jpg",
-  "first_seen": "2026-10-29T22:45:50+00:00"
- },
- "https://ankergames.net/game/outbound": {
-  "title": "Outbound",
-  "image": "https://ankergames.net/uploads/poster/05-2026/outbound-poster_PPjurU_1778149202.jpg",
-  "first_seen": "2026-10-29T22:45:49+00:00"
- },
- "https://ankergames.net/game/icarus": {
-  "title": "ICARUS",
-  "image": "https://ankergames.net/uploads/poster/12-2025/LuDEqioTM8.png",
-  "first_seen": "2026-10-29T22:45:48+00:00"
- },
- "https://ankergames.net/game/aliens-fireteam-elite-2": {
-  "title": "Aliens: Fireteam Elite 2",
-  "image": "https://ankergames.net/uploads/poster/08-2026/aliens-fireteam-elite-2-poster_fXxMe5_1787723970.jpg",
-  "first_seen": "2026-10-29T22:45:47+00:00"
- },
- "https://ankergames.net/game/hozy": {
-  "title": "Hozy",
-  "image": "https://ankergames.net/uploads/poster/04-2026/hozy-poster_CFVTJE_1775042252.jpg",
-  "first_seen": "2026-10-29T22:45:46+00:00"
- },
- "https://ankergames.net/game/honeycomb-the-world-beyond": {
-  "title": "Honeycomb: The World Beyond",
-  "image": "https://ankergames.net/uploads/poster/09-2026/honeycomb-the-world-beyond-poster_KngUv9_1788939736.jpg",
-  "first_seen": "2026-10-29T22:45:45+00:00"
- },
- "https://ankergames.net/game/runescape-dragonwilds": {
-  "title": "RuneScape: Dragonwilds",
-  "image": "https://ankergames.net/uploads/poster/04-2025/1hfAh5U3PL.jpg",
-  "first_seen": "2026-10-29T22:45:44+00:00"
- },
- "https://ankergames.net/game/metro-2033-redux": {
-  "title": "Metro 2033 Redux",
-  "image": "https://ankergames.net/uploads/poster/02-2025/OkCQwlZPbA.jpg",
-  "first_seen": "2026-10-29T22:45:43+00:00"
- },
- "https://ankergames.net/game/factorio": {
-  "title": "Factorio",
-  "image": "https://ankergames.net/uploads/poster/10-2024/td3Wha3tgJ.jpg",
-  "first_seen": "2026-10-29T22:45:42+00:00"
- },
- "https://ankergames.net/game/beyond-sandbox": {
-  "title": "Beyond Sandbox",
-  "image": "https://ankergames.net/uploads/poster/04-2026/beyond-sandbox-poster_ReaS3T_1777541963.jpg",
-  "first_seen": "2026-10-29T22:45:41+00:00"
- },
- "https://ankergames.net/game/dinkum": {
-  "title": "Dinkum",
-  "image": "https://ankergames.net/uploads/poster/04-2025/RK3gemfcJ0.jpg",
-  "first_seen": "2026-10-29T22:45:40+00:00"
- },
- "https://ankergames.net/game/mycopunk": {
-  "title": "Mycopunk",
-  "image": "https://ankergames.net/uploads/poster/10-2026/mycopunk-poster_Wobtkf_1792580508.jpg",
-  "first_seen": "2026-10-29T22:45:39+00:00"
- },
- "https://ankergames.net/game/human-fall-flat": {
-  "title": "Human Fall Flat",
-  "image": "https://ankergames.net/uploads/poster/10-2024/rRkbumaTeR.jpg",
-  "first_seen": "2026-10-29T22:45:38+00:00"
- },
- "https://ankergames.net/game/twisted-tower": {
-  "title": "Twisted Tower",
-  "image": "https://ankergames.net/uploads/poster/08-2026/twisted-tower-poster_NG9Sai_1787218918.jpg",
-  "first_seen": "2026-10-29T22:45:37+00:00"
- },
- "https://ankergames.net/game/batomon-showdown": {
-  "title": "Batomon Showdown",
-  "image": "https://ankergames.net/uploads/poster/09-2026/batomon-showdown-poster_h8Peks_1790592343.jpg",
-  "first_seen": "2026-10-29T22:45:36+00:00"
- },
- "https://ankergames.net/game/aviassembly": {
-  "title": "Aviassembly",
-  "image": "https://ankergames.net/uploads/poster/04-2025/yNaf2Eicvk.jpg",
-  "first_seen": "2026-10-29T22:45:35+00:00"
- },
- "https://ankergames.net/game/last-epoch": {
-  "title": "Last Epoch",
-  "image": "https://ankergames.net/uploads/poster/10-2024/8J6xirdLri.jpg",
-  "first_seen": "2026-10-29T22:45:34+00:00"
- },
- "https://ankergames.net/game/over-the-hill": {
-  "title": "over the hill",
-  "image": "https://ankergames.net/uploads/poster/10-2026/over-the-hill-poster_3xibcV_1792006815.jpg",
-  "first_seen": "2026-10-29T22:45:33+00:00"
- },
- "https://ankergames.net/game/far-far-west": {
-  "title": "Far Far West",
-  "image": "https://ankergames.net/uploads/poster/04-2026/KR6J2CRDpa.jpg",
-  "first_seen": "2026-10-29T22:45:32+00:00"
- },
- "https://ankergames.net/game/towers-of-aghasba": {
-  "title": "Towers of Aghasba",
-  "image": "https://ankergames.net/uploads/poster/11-2024/pr7aPsYRlz.jpg",
-  "first_seen": "2026-10-29T22:45:31+00:00"
- },
- "https://ankergames.net/game/beamng-drive": {
-  "title": "BeamNG.drive",
-  "image": "https://ankergames.net/uploads/poster/10-2024/2fVIqsnNps.jpg",
-  "first_seen": "2026-10-29T22:45:30+00:00"
- },
- "https://ankergames.net/game/dying-light-2-stay-human": {
-  "title": "Dying Light 2 Stay Human",
-  "image": "https://ankergames.net/uploads/poster/10-2024/50YyX7FOl1.jpg",
-  "first_seen": "2026-10-29T22:45:29+00:00"
- },
- "https://ankergames.net/game/carx-drift-racing-online-2": {
-  "title": "CarX Drift Racing Online 2",
-  "image": "https://ankergames.net/uploads/poster/05-2026/carx-drift-racing-online-2-poster_RfMAyn_1778323471.jpg",
-  "first_seen": "2026-10-29T22:45:28+00:00"
- },
- "https://ankergames.net/game/ratatan": {
-  "title": "Ratatan",
-  "image": "https://ankergames.net/uploads/poster/09-2025/DX83mwaKeP.png",
-  "first_seen": "2026-10-29T22:45:27+00:00"
- },
- "https://ankergames.net/game/sandustry": {
-  "title": "Sandustry",
-  "image": "https://ankergames.net/uploads/poster/08-2026/sandustry-poster_4NlMJu_1786705821.jpg",
-  "first_seen": "2026-10-29T22:45:26+00:00"
- },
- "https://ankergames.net/game/bloons-td-6": {
-  "title": "Bloons TD 6",
-  "image": "https://ankergames.net/uploads/poster/09-2024/LPpSVLs30f.jpg",
-  "first_seen": "2026-10-29T22:45:25+00:00"
- },
- "https://ankergames.net/game/the-spell-brigade": {
-  "title": "The Spell Brigade",
-  "image": "https://ankergames.net/uploads/poster/03-2025/GHCbhTqQqf.jpg",
-  "first_seen": "2026-10-29T22:45:24+00:00"
- },
- "https://ankergames.net/game/plague-inc-evolved": {
-  "title": "Plague Inc Evolved",
-  "image": "https://ankergames.net/uploads/poster/02-2025/mS5fu8LHPO.jpg",
-  "first_seen": "2026-10-29T22:45:23+00:00"
+ "https://ankergames.net/game/scum": {
+  "title": "SCUM",
+  "image": "https://ankergames.net/uploads/poster/06-2025/ewlsjLe4PD.jpg",
+  "first_seen": "2026-10-30T05:55:09+00:00"
+ },
+ "https://ankergames.net/game/super-robot-wars-y": {
+  "title": "SUPER ROBOT WARS Y",
+  "image": "https://ankergames.net/uploads/poster/04-2026/super-robot-wars-y-poster_vqIa7V_1776859514.jpg",
+  "first_seen": "2026-10-30T05:55:08+00:00"
+ },
+ "https://ankergames.net/game/steins-gate-re-boot": {
+  "title": "STEINS;GATE RE:BOOT",
+  "image": "https://ankergames.net/uploads/poster/08-2026/steinsgate-reboot-poster_RDL09m_1787216268.jpg",
+  "first_seen": "2026-10-30T05:55:07+00:00"
+ },
+ "https://ankergames.net/game/meccha-chameleon": {
+  "title": "MECCHA CHAMELEON",
+  "image": "https://ankergames.net/uploads/poster/06-2026/meccha-chameleon-poster_vQ5vIm_1781155632.jpg",
+  "first_seen": "2026-10-30T05:55:06+00:00"
+ },
+ "https://ankergames.net/game/crushed-in-time": {
+  "title": "Crushed In Time",
+  "image": "https://ankergames.net/uploads/poster/06-2026/crushed-in-time-poster_qHsUdH_1781696693.jpg",
+  "first_seen": "2026-10-30T05:55:05+00:00"
+ },
+ "https://ankergames.net/game/blazblue-entropy-effect": {
+  "title": "BlazBlue Entropy Effect",
+  "image": "https://ankergames.net/uploads/poster/11-2024/QTh2vmqurc.jpg",
+  "first_seen": "2026-10-30T05:55:04+00:00"
+ },
+ "https://ankergames.net/game/prison-escape-simulator-dig-out": {
+  "title": "Prison Escape Simulator: Dig Out",
+  "image": "https://ankergames.net/uploads/poster/08-2025/xjyh9CvG16.png",
+  "first_seen": "2026-10-30T05:55:03+00:00"
+ },
+ "https://ankergames.net/game/star-trek-voyager-across-the-unknown": {
+  "title": "Star Trek: Voyager - Across the Unknown",
+  "image": "https://ankergames.net/uploads/poster/02-2026/star-trek-voyager-across-the-unknown-poster_apRvDQ_1771478097.jpg",
+  "first_seen": "2026-10-30T05:55:02+00:00"
+ },
+ "https://ankergames.net/game/house-flipper-2": {
+  "title": "House Flipper 2",
+  "image": "https://ankergames.net/uploads/poster/10-2024/cedlkCWFuh.jpg",
+  "first_seen": "2026-10-30T05:55:00+00:00"
+ },
+ "https://ankergames.net/game/sort-them-ducks": {
+  "title": "Sort Them Ducks",
+  "image": "https://ankergames.net/uploads/poster/08-2026/sort-them-ducks-poster_KNsU8t_1787048491.jpg",
+  "first_seen": "2026-10-30T05:54:59+00:00"
+ },
+ "https://ankergames.net/game/photomaly": {
+  "title": "Photomaly",
+  "image": "https://ankergames.net/uploads/poster/08-2026/photomaly-poster_lyBzjM_1788166282.jpg",
+  "first_seen": "2026-10-30T05:54:58+00:00"
+ },
+ "https://ankergames.net/game/invincible-vs": {
+  "title": "Invincible VS",
+  "image": "https://ankergames.net/uploads/poster/04-2026/invincible-vs-poster_dLgeJt_1777570771.jpg",
+  "first_seen": "2026-10-30T05:54:57+00:00"
+ },
+ "https://ankergames.net/game/nova-roma": {
+  "title": "Nova Roma",
+  "image": "https://ankergames.net/uploads/poster/03-2026/nova-roma-poster_gZwp36_1774869088.jpg",
+  "first_seen": "2026-10-30T05:54:56+00:00"
+ },
+ "https://ankergames.net/game/waterpark-simulator": {
+  "title": "Waterpark Simulator",
+  "image": "https://ankergames.net/uploads/poster/08-2025/nALsaNixVm.jpg",
+  "first_seen": "2026-10-30T05:54:55+00:00"
+ },
+ "https://ankergames.net/game/going-medieval": {
+  "title": "Going Medieval",
+  "image": "https://ankergames.net/uploads/poster/03-2026/going-medieval-poster_l0RiMT_1774261000.jpg",
+  "first_seen": "2026-10-30T05:54:54+00:00"
+ },
+ "https://ankergames.net/game/drone-sector": {
+  "title": "Drone Sector",
+  "image": "https://ankergames.net/uploads/poster/07-2026/drone-sector-poster_O0w31L_1785237691.jpg",
+  "first_seen": "2026-10-30T05:54:53+00:00"
+ },
+ "https://ankergames.net/game/dune-awakening": {
+  "title": "Dune: Awakening",
+  "image": "https://ankergames.net/uploads/poster/09-2026/dune-awakening-poster_zLj8gw_1789715838.jpg",
+  "first_seen": "2026-10-30T05:54:52+00:00"
+ },
+ "https://ankergames.net/game/car-dealer-simulator": {
+  "title": "Car Dealer Simulator",
+  "image": "https://ankergames.net/uploads/poster/05-2025/x9npI8mJzE.jpg",
+  "first_seen": "2026-10-30T05:54:51+00:00"
+ },
+ "https://ankergames.net/game/starseeker-astroneer-expeditions": {
+  "title": "STARSEEKER: Astroneer Expeditions",
+  "image": "https://ankergames.net/uploads/poster/06-2026/starseeker-astroneer-expeditions-poster_f4ValV_1781692450.jpg",
+  "first_seen": "2026-10-30T05:54:49+00:00"
+ },
+ "https://ankergames.net/game/farlands": {
+  "title": "Farlands",
+  "image": "https://ankergames.net/uploads/poster/10-2024/PvDRFofe6s.jpg",
+  "first_seen": "2026-10-30T05:54:47+00:00"
+ },
+ "https://ankergames.net/game/travellers-rest": {
+  "title": "Travellers Rest",
+  "image": "https://ankergames.net/uploads/poster/04-2026/travellers-rest-poster_m9U3wS_1776503907.jpg",
+  "first_seen": "2026-10-30T05:54:45+00:00"
+ },
+ "https://ankergames.net/game/avatar-legends-the-fighting-game": {
+  "title": "Avatar Legends: The Fighting Game",
+  "image": "https://ankergames.net/uploads/poster/07-2026/avatar-legends-the-fighting-game-poster_XieIkG_1784872787.jpg",
+  "first_seen": "2026-10-30T05:54:44+00:00"
+ },
+ "https://ankergames.net/game/japanese-ramen-simulator": {
+  "title": "Japanese Ramen Simulator",
+  "image": "https://ankergames.net/uploads/poster/10-2026/japanese-ramen-simulator-poster_MT1jjG_1791889368.jpg",
+  "first_seen": "2026-10-30T05:54:43+00:00"
+ },
+ "https://ankergames.net/game/paperhead": {
+  "title": "PAPERHEAD",
+  "image": "https://ankergames.net/uploads/poster/10-2026/paperhead-poster_4lX4AX_1791655653.jpg",
+  "first_seen": "2026-10-30T05:54:41+00:00"
+ },
+ "https://ankergames.net/game/white-knuckle": {
+  "title": "White Knuckle",
+  "image": "https://ankergames.net/uploads/poster/05-2026/white-knuckle-poster_pEXr8s_1778577895.jpg",
+  "first_seen": "2026-10-30T05:54:40+00:00"
+ },
+ "https://ankergames.net/game/police-chief-simulator": {
+  "title": "Police Chief Simulator",
+  "image": "https://ankergames.net/uploads/poster/09-2026/police-chief-simulator-poster_R7DS8Z_1789795856.jpg",
+  "first_seen": "2026-10-30T05:54:39+00:00"
+ },
+ "https://ankergames.net/game/grounded-2": {
+  "title": "Grounded 2",
+  "image": "https://ankergames.net/uploads/poster/07-2025/7IIXCfCrP7.png",
+  "first_seen": "2026-10-30T05:54:37+00:00"
+ },
+ "https://ankergames.net/game/mixtape": {
+  "title": "Mixtape",
+  "image": "https://ankergames.net/uploads/poster/05-2026/mixtape-poster_n1YsGl_1778187857.jpg",
+  "first_seen": "2026-10-30T05:54:36+00:00"
+ },
+ "https://ankergames.net/game/scavland": {
+  "title": "Scavland",
+  "image": "https://ankergames.net/uploads/poster/09-2026/scavland-poster_2TL3K8_1789727280.jpg",
+  "first_seen": "2026-10-30T05:54:35+00:00"
+ },
+ "https://ankergames.net/game/bruisers-2d-boxing": {
+  "title": "Bruisers 2D Boxing",
+  "image": "https://ankergames.net/uploads/poster/10-2026/bruisers-2d-boxing-poster_u8EGyP_1793106776.jpg",
+  "first_seen": "2026-10-30T05:54:34+00:00"
+ },
+ "https://ankergames.net/game/valheim": {
+  "title": "Valheim",
+  "image": "https://ankergames.net/uploads/poster/11-2024/jTHw8f9pos.jpg",
+  "first_seen": "2026-10-30T05:54:33+00:00"
+ },
+ "https://ankergames.net/game/sulfur": {
+  "title": "SULFUR",
+  "image": "https://ankergames.net/uploads/poster/07-2026/sulfur-poster_67EfzA_1783324195.jpg",
+  "first_seen": "2026-10-30T05:54:32+00:00"
+ },
+ "https://ankergames.net/game/probably-stolen-cyberpunk-shopkeeper-sim": {
+  "title": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+  "image": "https://ankergames.net/uploads/poster/10-2026/probably-stolen-cyberpunk-shopkeeper-sim-poster_qT7Wee_1793207894.jpg",
+  "first_seen": "2026-10-30T05:54:31+00:00"
+ },
+ "https://ankergames.net/game/lost-castle-2": {
+  "title": "Lost Castle 2",
+  "image": "https://ankergames.net/uploads/poster/09-2024/d7vJzHvL8M.jpg",
+  "first_seen": "2026-10-30T05:54:28+00:00"
+ },
+ "https://ankergames.net/game/tavern-keeper": {
+  "title": "Tavern Keeper",
+  "image": "https://ankergames.net/uploads/poster/11-2025/RIDFsZVPzk.png",
+  "first_seen": "2026-10-30T05:54:27+00:00"
+ },
+ "https://ankergames.net/game/way-of-the-hunter-2": {
+  "title": "Way of the Hunter 2",
+  "image": "https://ankergames.net/uploads/poster/10-2026/way-of-the-hunter-2-poster_zKm4P8_1791372082.jpg",
+  "first_seen": "2026-10-30T05:54:26+00:00"
+ },
+ "https://ankergames.net/game/little-witch-in-the-woods": {
+  "title": "Little Witch in the Woods",
+  "image": "https://ankergames.net/uploads/poster/09-2025/dnJ09FOXPh.png",
+  "first_seen": "2026-10-30T05:54:25+00:00"
+ },
+ "https://ankergames.net/game/tape-to-tape": {
+  "title": "Tape to Tape",
+  "image": "https://ankergames.net/uploads/poster/07-2026/tape-to-tape-poster_LlTBvX_1782901225.jpg",
+  "first_seen": "2026-10-30T05:54:24+00:00"
+ },
+ "https://ankergames.net/game/nba-2k27": {
+  "title": "NBA 2K27",
+  "image": "https://ankergames.net/uploads/poster/09-2026/nba-2k27-poster_Ayvuwn_1788507340.jpg",
+  "first_seen": "2026-10-30T05:54:23+00:00"
+ },
+ "https://ankergames.net/game/no-mans-sky": {
+  "title": "No Man's Sky",
+  "image": "https://ankergames.net/uploads/poster/10-2024/WLNpTgwBUS.jpg",
+  "first_seen": "2026-10-30T05:54:21+00:00"
+ },
+ "https://ankergames.net/game/kotamon-my-sis-found-a-super-rare-card-in-her-cereal-box-so-i-became-a-garbage-man-to-find-the-entire-collection-and-earn-1000000": {
+  "title": "Kotamon My Sis Found A Super Rare Card In Her Cereal Box So I Became A Garbage Man To Find The Entire Collection And Earn 1000000",
+  "image": "https://ankergames.net/uploads/poster/08-2026/kotamon-my-sis-found-a-super-rare-card-in-her-cere-poster_YoMaIU_1787823949.jpg",
+  "first_seen": "2026-10-30T05:54:19+00:00"
+ },
+ "https://ankergames.net/game/halloween-the-game": {
+  "title": "Halloween: The Game",
+  "image": "https://ankergames.net/uploads/poster/09-2026/halloween-the-game-poster_n5wRh6_1788585749.jpg",
+  "first_seen": "2026-10-30T05:54:18+00:00"
+ },
+ "https://ankergames.net/game/chained-together": {
+  "title": "Chained Together",
+  "image": "https://ankergames.net/uploads/poster/09-2024/Z2Shlmc2ER.jpg",
+  "first_seen": "2026-10-30T05:54:17+00:00"
+ },
+ "https://ankergames.net/game/magicraft": {
+  "title": "Magicraft",
+  "image": "https://ankergames.net/uploads/poster/11-2024/tliZIs4gxt.jpg",
+  "first_seen": "2026-10-30T05:54:16+00:00"
+ },
+ "https://ankergames.net/game/pathogenic": {
+  "title": "Pathogenic",
+  "image": "https://ankergames.net/uploads/poster/07-2026/pathogenic-poster_GS4Z5I_1784359749.jpg",
+  "first_seen": "2026-10-30T05:54:14+00:00"
+ },
+ "https://ankergames.net/game/lay-of-the-land": {
+  "title": "Lay of the Land",
+  "image": "https://ankergames.net/uploads/poster/08-2026/lay-of-the-land-poster_bgFx49_1787396680.jpg",
+  "first_seen": "2026-10-30T05:54:02+00:00"
+ },
+ "https://ankergames.net/game/soulmask": {
+  "title": "Soulmask",
+  "image": "https://ankergames.net/uploads/poster/10-2024/axYOi8nJNT.jpg",
+  "first_seen": "2026-10-30T05:54:01+00:00"
+ },
+ "https://ankergames.net/game/vholume": {
+  "title": "VHOLUME",
+  "image": "https://ankergames.net/uploads/poster/10-2026/vholume-poster_teteUn_1791463567.jpg",
+  "first_seen": "2026-10-30T05:53:59+00:00"
+ },
+ "https://ankergames.net/game/maid-cafe-simulator": {
+  "title": "Maid Cafe Simulator",
+  "image": "https://ankergames.net/uploads/poster/10-2026/maid-cafe-simulator-poster_pyBFrC_1792144265.jpg",
+  "first_seen": "2026-10-30T05:53:57+00:00"
+ },
+ "https://ankergames.net/game/permafrost": {
+  "title": "Permafrost",
+  "image": "https://ankergames.net/uploads/poster/10-2026/permafrost-poster_jPa4oc_1791570115.jpg",
+  "first_seen": "2026-10-30T05:53:56+00:00"
+ },
+ "https://ankergames.net/game/duelist-idle-expedition": {
+  "title": "Duelist: Idle Expedition",
+  "image": "https://ankergames.net/uploads/poster/10-2026/duelist-idle-expedition-poster_mtDzI9_1791891740.jpg",
+  "first_seen": "2026-10-30T05:53:49+00:00"
+ },
+ "https://ankergames.net/game/pax-autocratica": {
+  "title": "Pax Autocratica",
+  "image": "https://ankergames.net/uploads/poster/08-2026/pax-autocratica-poster_7A5kAy_1786437433.jpg",
+  "first_seen": "2026-10-30T05:53:36+00:00"
+ },
+ "https://ankergames.net/game/labyrinthine": {
+  "title": "Labyrinthine",
+  "image": "https://ankergames.net/uploads/poster/10-2025/biXA6rs6mF.png",
+  "first_seen": "2026-10-30T05:53:35+00:00"
+ },
+ "https://ankergames.net/game/supermarket-simulator": {
+  "title": "Supermarket Simulator",
+  "image": "https://ankergames.net/uploads/poster/10-2024/lSlalrTQHY.jpg",
+  "first_seen": "2026-10-30T05:53:34+00:00"
+ },
+ "https://ankergames.net/game/cronos-the-new-dawn": {
+  "title": "Cronos The New Dawn",
+  "image": "https://ankergames.net/uploads/poster/09-2025/lEmEQBmRKS.png",
+  "first_seen": "2026-10-30T05:53:33+00:00"
+ },
+ "https://ankergames.net/game/vampires-bloodlord-rising": {
+  "title": "Vampires: Bloodlord Rising",
+  "image": "https://ankergames.net/uploads/poster/02-2026/vampires-bloodlord-rising-poster_jHPTzj_1770280623.jpg",
+  "first_seen": "2026-10-30T05:53:32+00:00"
+ },
+ "https://ankergames.net/game/age-of-empires-iii-definitive-edition": {
+  "title": "Age of Empires III: Definitive Edition",
+  "image": "https://ankergames.net/uploads/poster/03-2026/age-of-empires-iii-poster_rUS9uO_1774512504.jpg",
+  "first_seen": "2026-10-30T05:53:31+00:00"
+ },
+ "https://ankergames.net/game/madison": {
+  "title": "MADiSON",
+  "image": "https://ankergames.net/uploads/poster/03-2025/XEY4kG5riW.jpg",
+  "first_seen": "2026-10-30T05:53:30+00:00"
+ },
+ "https://ankergames.net/game/pizza-house-simulator": {
+  "title": "Pizza House Simulator",
+  "image": "https://ankergames.net/uploads/poster/09-2026/pizza-house-simulator-poster_2cHMSB_1788434885.jpg",
+  "first_seen": "2026-10-30T05:53:29+00:00"
+ },
+ "https://ankergames.net/game/cubic-odyssey": {
+  "title": "Cubic Odyssey",
+  "image": "https://ankergames.net/uploads/poster/05-2025/aU84NvSLzI.jpg",
+  "first_seen": "2026-10-30T05:53:28+00:00"
+ },
+ "https://ankergames.net/game/grain-rot": {
+  "title": "GRAIN ROT",
+  "image": "https://ankergames.net/uploads/poster/08-2026/grain-rot-poster_vEZbWB_1786358281.jpg",
+  "first_seen": "2026-10-30T05:53:27+00:00"
+ },
+ "https://ankergames.net/game/the-classrooms": {
+  "title": "The Classrooms",
+  "image": "https://ankergames.net/uploads/poster/01-2025/ztOhK0sTts.jpg",
+  "first_seen": "2026-10-30T05:53:26+00:00"
+ },
+ "https://ankergames.net/game/misery": {
+  "title": "MISERY",
+  "image": "https://ankergames.net/uploads/poster/10-2025/QlaCgAne6G.png",
+  "first_seen": "2026-10-30T05:53:25+00:00"
+ },
+ "https://ankergames.net/game/antonblast": {
+  "title": "ANTONBLAST",
+  "image": "https://ankergames.net/uploads/poster/12-2024/hlv6vpSOYu.jpg",
+  "first_seen": "2026-10-30T05:53:23+00:00"
+ },
+ "https://ankergames.net/game/tiny-aquarium-social-fishkeeping": {
+  "title": "Tiny Aquarium: Social Fishkeeping",
+  "image": "https://ankergames.net/uploads/poster/07-2025/Mx1EFbV0Rs.jpg",
+  "first_seen": "2026-10-30T05:53:22+00:00"
+ },
+ "https://ankergames.net/game/mechwarrior-5-mercenaries": {
+  "title": "MechWarrior 5: Mercenaries",
+  "image": "https://ankergames.net/uploads/poster/09-2025/9dvGZ4LGi2.png",
+  "first_seen": "2026-10-30T05:53:21+00:00"
+ },
+ "https://ankergames.net/game/chop-chop-inc": {
+  "title": "Chop Chop Inc.",
+  "image": "https://ankergames.net/uploads/poster/08-2026/chop-chop-inc-poster_dmT3gD_1786530752.jpg",
+  "first_seen": "2026-10-30T05:53:20+00:00"
+ },
+ "https://ankergames.net/game/welcome-to-elderfield": {
+  "title": "Welcome to Elderfield",
+  "image": "https://ankergames.net/uploads/poster/09-2026/welcome-to-elderfield-poster_jcYPpM_1789128986.jpg",
+  "first_seen": "2026-10-30T05:53:19+00:00"
+ },
+ "https://ankergames.net/game/into-the-dead-our-darkest-days": {
+  "title": "Into the Dead Our Darkest Days",
+  "image": "https://ankergames.net/uploads/poster/04-2025/ssRlYSGF3y.jpg",
+  "first_seen": "2026-10-30T05:53:18+00:00"
+ },
+ "https://ankergames.net/game/dave-the-diver": {
+  "title": "DAVE THE DIVER",
+  "image": "https://ankergames.net/uploads/poster/10-2024/OtEYnfwxAZ.jpg",
+  "first_seen": "2026-10-30T05:53:16+00:00"
+ },
+ "https://ankergames.net/game/dragonsword-awakening": {
+  "title": "DragonSword : Awakening",
+  "image": "https://ankergames.net/uploads/poster/07-2026/dragonsword-awakening-poster_mjgMrB_1784883373.jpg",
+  "first_seen": "2026-10-30T05:53:14+00:00"
+ },
+ "https://ankergames.net/game/funnel-runners": {
+  "title": "Funnel Runners",
+  "image": "https://ankergames.net/uploads/poster/07-2026/funnel-runners-poster_8FY4cF_1784544831.jpg",
+  "first_seen": "2026-10-30T05:53:12+00:00"
+ },
+ "https://ankergames.net/game/lost-and-found-co": {
+  "title": "Lost and Found Co.",
+  "image": "https://ankergames.net/uploads/poster/07-2026/lost-and-found-co-poster_LsLtNQ_1783927237.jpg",
+  "first_seen": "2026-10-30T05:53:11+00:00"
+ },
+ "https://ankergames.net/game/rune-dice": {
+  "title": "Rune Dice",
+  "image": "https://ankergames.net/uploads/poster/05-2026/rune-dice-poster_GVy6XP_1779279855.jpg",
+  "first_seen": "2026-10-30T05:53:10+00:00"
+ },
+ "https://ankergames.net/game/gorebox": {
+  "title": "GoreBox",
+  "image": "https://ankergames.net/uploads/poster/01-2025/6e865IL62P.jpg",
+  "first_seen": "2026-10-30T05:53:08+00:00"
+ },
+ "https://ankergames.net/game/normal-golf-game": {
+  "title": "Normal Golf Game",
+  "image": "https://ankergames.net/uploads/poster/10-2026/normal-golf-game-poster_Sfx1wW_1793010185.jpg",
+  "first_seen": "2026-10-30T05:53:07+00:00"
+ },
+ "https://ankergames.net/game/quarantine-zone-the-last-check": {
+  "title": "Quarantine Zone: The Last Check",
+  "image": "https://ankergames.net/uploads/poster/05-2025/86wanTkyEe.jpg",
+  "first_seen": "2026-10-30T05:53:06+00:00"
+ },
+ "https://ankergames.net/game/we-were-here-tomorrow": {
+  "title": "We Were Here Tomorrow",
+  "image": "https://ankergames.net/uploads/poster/10-2026/we-were-here-tomorrow-poster_YLe7ac_1792650336.jpg",
+  "first_seen": "2026-10-30T05:53:05+00:00"
+ },
+ "https://ankergames.net/game/arma-3": {
+  "title": "Arma 3",
+  "image": "https://ankergames.net/uploads/poster/11-2024/tjshWJKfZY.jpg",
+  "first_seen": "2026-10-30T05:53:04+00:00"
+ },
+ "https://ankergames.net/game/wheelmates": {
+  "title": "WheelMates",
+  "image": "https://ankergames.net/uploads/poster/09-2026/wheelmates-poster_9BtGnm_1789988701.jpg",
+  "first_seen": "2026-10-30T05:53:01+00:00"
+ },
+ "https://ankergames.net/game/roadhouse-simulator": {
+  "title": "Roadhouse Simulator",
+  "image": "https://ankergames.net/uploads/poster/10-2026/roadhouse-simulator-poster_w8W80N_1791198996.jpg",
+  "first_seen": "2026-10-30T05:52:53+00:00"
+ },
+ "https://ankergames.net/game/hard-bullet": {
+  "title": "HARD BULLET",
+  "image": "https://ankergames.net/uploads/poster/02-2025/eQMnJ58FCc.jpg",
+  "first_seen": "2026-10-30T05:52:51+00:00"
+ },
+ "https://ankergames.net/game/shadow-dungeon": {
+  "title": "Shadow Dungeon",
+  "image": "https://ankergames.net/uploads/poster/08-2026/shadow-dungeon-poster_DumNQ4_1787821024.jpg",
+  "first_seen": "2026-10-30T05:52:50+00:00"
+ },
+ "https://ankergames.net/game/transport-fever-3": {
+  "title": "Transport Fever 3",
+  "image": "https://ankergames.net/uploads/poster/09-2026/transport-fever-3-poster_3PJxIf_1790661588.jpg",
+  "first_seen": "2026-10-30T05:52:49+00:00"
+ },
+ "https://ankergames.net/game/alan-wake-2": {
+  "title": "Alan Wake 2",
+  "image": "https://ankergames.net/uploads/poster/10-2024/MIM8HqtFUX.jpg",
+  "first_seen": "2026-10-30T05:52:48+00:00"
+ },
+ "https://ankergames.net/game/metro-last-light-redux": {
+  "title": "Metro: Last Light Redux",
+  "image": "https://ankergames.net/uploads/poster/05-2026/metro-last-light-redux-poster_a888va_1777713891.jpg",
+  "first_seen": "2026-10-30T05:52:47+00:00"
+ },
+ "https://ankergames.net/game/pratfall": {
+  "title": "Pratfall",
+  "image": "https://ankergames.net/uploads/poster/04-2026/pratfall-poster_S23qQn_1777366686.jpg",
+  "first_seen": "2026-10-30T05:52:46+00:00"
+ },
+ "https://ankergames.net/game/mortal-shell-ii": {
+  "title": "Mortal Shell II",
+  "image": "https://ankergames.net/uploads/poster/08-2026/mortal-shell-ii-poster_TLQJN8_1786989688.jpg",
+  "first_seen": "2026-10-30T05:52:45+00:00"
+ },
+ "https://ankergames.net/game/survival-log": {
+  "title": "Survival Log",
+  "image": "https://ankergames.net/uploads/poster/08-2026/survival-log-poster_GhZWqj_1786785010.jpg",
+  "first_seen": "2026-10-30T05:52:44+00:00"
+ },
+ "https://ankergames.net/game/third-crisis-neon-nights": {
+  "title": "Third Crisis: Neon Nights",
+  "image": "https://ankergames.net/uploads/poster/08-2026/third-crisis-neon-nights-poster_fplgIZ_1786959630.jpg",
+  "first_seen": "2026-10-30T05:52:43+00:00"
+ },
+ "https://ankergames.net/game/drive-beyond-horizons": {
+  "title": "Drive Beyond Horizons",
+  "image": "https://ankergames.net/uploads/poster/04-2025/6kSb9MyI6P.jpg",
+  "first_seen": "2026-10-30T05:52:42+00:00"
+ },
+ "https://ankergames.net/game/oh-deer": {
+  "title": "Oh Deer",
+  "image": "https://ankergames.net/uploads/poster/10-2024/V5qPqU7npz.jpg",
+  "first_seen": "2026-10-30T05:52:41+00:00"
+ },
+ "https://ankergames.net/game/peak": {
+  "title": "PEAK",
+  "image": "https://ankergames.net/uploads/poster/06-2025/IjkcUYYrie.jpg",
+  "first_seen": "2026-10-30T05:52:40+00:00"
+ },
+ "https://ankergames.net/game/witchspire": {
+  "title": "Witchspire",
+  "image": "https://ankergames.net/uploads/poster/06-2026/witchspire-poster_h0Ql5y_1781345098.jpg",
+  "first_seen": "2026-10-30T05:52:39+00:00"
+ },
+ "https://ankergames.net/game/minecraft-dungeons-ii": {
+  "title": "Minecraft Dungeons II",
+  "image": "https://ankergames.net/uploads/poster/09-2026/minecraft-dungeons-ii-poster_Owi5nf_1790661661.jpg",
+  "first_seen": "2026-10-30T05:52:38+00:00"
+ },
+ "https://ankergames.net/game/wreckfest-2": {
+  "title": "Wreckfest 2",
+  "image": "https://ankergames.net/uploads/poster/03-2025/cPjJbNMyQx.jpg",
+  "first_seen": "2026-10-30T05:52:37+00:00"
+ },
+ "https://ankergames.net/game/cyberpunk-2077": {
+  "title": "Cyberpunk 2077",
+  "image": "https://ankergames.net/uploads/poster/10-2024/IUgOUDjwWT.jpg",
+  "first_seen": "2026-10-30T05:52:29+00:00"
+ },
+ "https://ankergames.net/game/invokyr": {
+  "title": "Invokyr",
+  "image": "https://ankergames.net/uploads/poster/10-2026/invokyr-poster_RqrjgX_1791796961.jpg",
+  "first_seen": "2026-10-30T05:52:27+00:00"
+ },
+ "https://ankergames.net/game/wild-west-pioneers": {
+  "title": "Wild West Pioneers",
+  "image": "https://ankergames.net/uploads/poster/10-2026/wild-west-pioneers-poster_UPrzoU_1791032929.jpg",
+  "first_seen": "2026-10-30T05:52:24+00:00"
+ },
+ "https://ankergames.net/game/tap-tap-loot": {
+  "title": "Tap Tap Loot",
+  "image": "https://ankergames.net/uploads/poster/04-2026/tap-tap-loot-poster_62Y2eg.jpg",
+  "first_seen": "2026-10-30T05:52:22+00:00"
  }
 }
